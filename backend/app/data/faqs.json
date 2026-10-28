@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Departments & Specialties",
+    "question": "What departments and specialties are available at Aarogya Multispeciality Hospital?",
+    "keywords": ["departments", "specialties", "cardiology", "orthopedics", "dermatology", "general medicine", "pediatrics", "emergency"],
+    "answer": "Aarogya Multispeciality Hospital provides comprehensive care across major specialties: Cardiology & Interventional Cardiac Care (Dr. Ananya Sharma), Orthopedics & Joint Replacement (Dr. Rahul Mehta), Dermatology & Cosmetology (Dr. Priya Nair), General Medicine & Diabetology (Dr. Vikram Patel), Pediatrics & Neonatology, and a 24x7 Emergency & Trauma Center."
+  },
+  {
+    "category": "OPD Timings",
+    "question": "What are the OPD timings and consultation hours?",
+    "keywords": ["opd timings", "consultation hours", "timings", "timing", "hours", "schedule", "sunday"],
+    "answer": "Our Outpatient Department (OPD) operates Monday through Saturday: Morning OPD is from 09:00 AM to 01:00 PM, and Afternoon/Evening OPD is from 02:00 PM to 06:00 PM. On Sundays, a special consultation OPD operates from 09:00 AM to 01:00 PM. The 24x7 Emergency and Casualty department is open round the clock every day."
+  },
+  {
+    "category": "Visiting Hours",
+    "question": "What are the hospital visiting hours for patient relatives?",
+    "keywords": ["visiting hours", "visit", "visiting", "relative", "icu visiting", "attendant pass"],
+    "answer": "Visiting hours for General Wards and Private Rooms are daily from 04:00 PM to 07:00 PM. For Intensive Care Units (ICU/CCU/NICU), visiting hours are strictly 11:00 AM to 12:00 PM and 05:00 PM to 06:00 PM (maximum one attendant with an authorized visitor badge). Children under 12 years are not allowed in intensive care areas for safety and infection prevention."
+  },
+  {
+    "category": "Appointment Preparation",
+    "question": "How should I prepare for my doctor appointment or diagnostic tests?",
+    "keywords": ["preparation", "prepare", "fasting", "tests", "blood test", "ultrasound", "documents", "documents required", "what to bring", "id proof", "prescription"],
+    "answer": "For routine doctor consultations, please arrive 15 minutes before your slot with your previous prescriptions, lab reports, and a photo ID (such as Aadhaar). If your appointment includes blood tests (e.g., Fasting Blood Sugar, Lipid Profile) or an Ultrasound Abdomen, 10 to 12 hours of overnight fasting is required (plain water is permitted)."
+  },
+  {
+    "category": "Billing & Cashless Insurance",
+    "question": "Does Aarogya Hospital accept cashless health insurance and TPAs?",
+    "keywords": ["billing", "insurance", "cashless", "tpa", "mediclaim", "star health", "hdfc ergo", "ayushman", "pmjay", "claim"],
+    "answer": "Yes. Aarogya Multispeciality Hospital is empanelled with major health insurers and Third-Party Administrators (TPAs), including Star Health, HDFC ERGO, ICICI Lombard, Care Health, Medi Assist, FHPL, Paramount TPA, Bajaj Allianz, and Ayushman Bharat PM-JAY. Our TPA & Insurance Desk is located on the Ground Floor and operates 24x7 for cashless pre-authorizations."
+  },
+  {
+    "category": "Cancellation & Rescheduling",
+    "question": "What is the policy for cancelling or rescheduling an appointment?",
+    "keywords": ["cancel", "cancellation", "reschedule", "change time", "refund", "fee"],
+    "answer": "Appointments can be cancelled or rescheduled free of charge up to 2 hours before the scheduled consultation slot. You can cancel through this assistant or by calling the reception desk. There are no cancellation penalties for outpatient appointments."
+  },
+  {
+    "category": "Emergency & Ambulance",
+    "question": "What should I do in a critical medical emergency?",
+    "keywords": ["emergency", "critical", "ambulance", "urgent", "heart attack", "stroke", "accident", "helpline"],
+    "answer": "For immediate life-threatening medical emergencies (chest pain, breathing distress, sudden weakness/stroke, severe trauma), dial National Emergency 108 / 112 immediately. Note: All hospital phone numbers in this prototype (including 0731-4999999) are fictional demo contacts. Online chat requests in this prototype are for recorded demonstrations only and cannot dispatch real emergency vehicles."
+  },
+  {
+    "category": "Hospital Location & Contact",
+    "question": "Where is Aarogya Multispeciality Hospital located?",
+    "keywords": ["location", "address", "where", "contact", "phone", "helpline", "city"],
+    "answer": "Aarogya Multispeciality Hospital is located at Plot 45, Ring Road, Scheme 54, Vijay Nagar, Indore, Madhya Pradesh 452010. General Helpline: +91 731 4999000 (Fictional Demo Contact). For real emergencies, dial 108 / 112."
+  }
+]
