@@ -12,7 +12,7 @@ import type {
   OperatorSession
 } from '../types';
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api';
+const API_BASE = import.meta.env.VITE_API_BASE_URL || (typeof window !== 'undefined' && window.location.hostname !== 'localhost' && window.location.hostname !== '127.0.0.1' ? '/api' : 'http://localhost:8000/api');
 
 let operatorToken: string | null = typeof window !== 'undefined' ? sessionStorage.getItem('aarogya_operator_token') : null;
 
